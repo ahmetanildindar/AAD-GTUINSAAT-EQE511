@@ -1,4 +1,5 @@
-![](a-figures//gtuinsaat_1.jpg)
+<img src=".//a-figures//gtuinsaat_1.jpg" width="100" height="100" align="middle" >
+
 ### "GTU Department of Civil Engineering - Graduate Program"
 ## "EQE511 FINITE ELEMENT METHODS AND COMPUTER APPLICATIONS"
 #### Lecturer: _Dr. Ahmet Anıl Dindar (adindar@gtu.edu.tr)_
@@ -25,6 +26,7 @@
 |12 | 29.4 | Dynamic time history and dynamic modal analyses of structure| HW5| 
 |13 |  6.5 | Case Study 1 (Hackathon)| -|
 |14 | 13.5 | Case Study 2 (Hackathon)| -|
- ---
+
+---
  
  
